@@ -1,5 +1,6 @@
 # en-es-en-Dic
-High quality data set of Spanish-English and English-Spanish pretty printed XML dictionaries. 
+High-quality, comprehensive, and easy-to-navigate dataset of Spanish-English and English-Spanish pretty-printed XML dictionaries. 
+Very useful for models training ;-)
 
 There are also "verbs only" dictionaries available. 
 
